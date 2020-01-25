@@ -1,6 +1,8 @@
-import unittest
 import random
+import unittest
+
 from count_th import *
+
 
 class Test(unittest.TestCase):
 
